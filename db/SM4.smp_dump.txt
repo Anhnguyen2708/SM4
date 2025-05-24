@@ -1,0 +1,5 @@
+
+State Machine - |sm4_streaming_wrapper|sm4_top:SM4|sm4_encdec:u_encdec|current
+Name current.01 
+current.00 0 
+current.01 1 
