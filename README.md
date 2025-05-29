@@ -5,5 +5,5 @@
   </a>
 </p>
 
-<h1 align="center"><b>Thiết kế Phần cứng cho Thuật toán Mã hóa/Giải mã SM4 - CE433 </b></h1>
+<h1 align="center"><b>Thiết kế Phần cứng cho Thuật toán Mã hóa/Giải mã SM4 </b></h1>
 
